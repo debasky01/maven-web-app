@@ -32,8 +32,8 @@
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p style="text-align: center;">ACADA Learning - Consultant, Training, Development Center.</p>
-<p style="text-align: center;"><small>Copyrights 2022 by <a href="https://acadalearning.com/">ACADA Learning</a> </small></p>
+<p style="text-align: center;">Gensogram - Consultant, Training, Development Center.</p>
+<p style="text-align: center;"><small>Copyrights 2022 by <a href="https://gensogram.com/">Gensogram</a> </small></p>
 
 </body>
 </html>
