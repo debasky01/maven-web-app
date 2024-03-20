@@ -4,28 +4,28 @@
 <html lang="en">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>acadalearning.com- Home Page</title>
-<link href="images/DP black.png" rel="icon">
+<title>Gensogram- Home Page</title>
+<link href="images/Gensogram_Logo.jpeg" rel="icon">
 </head>
 
 <body>
-<h1 style="text-align: center;">ACADA Learning</h1>
-<h2 style="text-align: center;"> Welcome to ACADA Learning. 
-	ACADA Learning is a an ideal online training  platform for DevOps and Cloud Engineers. 
+<h1 style="text-align: center;">Gensogram</h1>
+<h2 style="text-align: center;"> Welcome to Gensogram. 
+	Gensogram is a an ideal online training  platform for DevOps and Cloud Engineers. 
 	We offer interview preparations and job assitance,
 	The shout of the King is in our midst. His name is JESUS.  HE IS OUR SUCCESS ACCESS KEY. Jesus is Lord. Halleluyah, Amen.</h2>
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/DP black.png" alt="" width="100">
+		<img src="images/Gensogram_Logo.jpeg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		ACADA Learning, 
-		Alberta, Calgary, Canada
-		+1 587 574 2233,
-		info@acadalearning.com
+		Gensogram, 
+		Toronto, Canada
+		+1 (416) 301-6820,
+		gensogram@gmail.com
 		<br>
-		<a href="mailto:info@acadalearning.com">Mail to ACADA Learning</a>
+		<a href="mailto:gensogram@gmail.com">Mail to Gensogram</a>
 	</span>
 </div>
 <hr>
