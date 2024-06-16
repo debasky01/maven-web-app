@@ -167,9 +167,18 @@
                 <groupId>org.codehaus.mojo</groupId>
                 <artifactId>exec-maven-plugin</artifactId>
                 <version>3.0.0</version>
-                <configuration>
-                    <mainClass>com.example.MainApp</mainClass>
-                </configuration>
+                <executions>
+                    <execution>
+                        <id>run-main</id>
+                        <phase>package</phase>
+                        <goals>
+                            <goal>java</goal>
+                        </goals>
+                        <configuration>
+                            <mainClass>com.example.MainApp</mainClass>
+                        </configuration>
+                    </execution>
+                </executions>
             </plugin>
 			
 </plugins>
