@@ -80,9 +80,9 @@
     <div class="contact">
         <img src="images/Gensogram_Logo.jpeg" alt="Gensogram Logo">
         <span>Gensogram, Toronto, Canada</span>
-        <span>+1 (416) 301-6092, <a href="mailto:gensograminc@gmail.com">gensograminc@gmail.com</a></span>
+        <span>+1 (416) 301-6092, <a href="mailto:gensogram@gmail.com">gensogram@gmail.com</a></span>
         <br>
-        <a href="mailto:gensograminc@gmail.com">Mail to Gensogram</a>
+        <a href="mailto:gensogram@gmail.com">Mail to Gensogram</a>
     </div>
 </div>
 
